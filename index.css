@@ -1,0 +1,132 @@
+.page1{
+    background-image: url(file:///home/morings/Desktop/delani/img/IP3/assets/backgrounds/h_img.jpg);
+    background-size: 100%;
+}
+.top{
+   text-align: center;
+   padding-top: 170px;
+   color: white;
+   font-size: 19px;
+}
+#logo{
+    padding-bottom: 40px;
+}
+#mouse{
+   padding-top: 50px;
+    padding-bottom: 60px;
+}
+#about{
+    text-align: center;
+    padding: 50px;
+    font-size: 19px;
+}
+#one{
+   width: 100%;
+    text-align: center;
+    padding-left: 0px;
+}
+.page3{
+   text-align: center;
+   font-size: 19px;
+   background-image: url(/home/morings/Desktop/delani/img/IP3/assets/backgrounds/s_image.jpg);
+   background-size: 100% 100%;
+   color: white;
+   height: 400px;
+   font-weight: 70px;
+}
+#services{
+    padding-top: 95px;
+}
+.hidding{
+    display: none;
+}
+#title{
+    text-align: center;
+    padding: 50px;
+}
+.row{
+    padding-bottom: 30px;
+}
+.whenHover{
+    display: none;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    cursor: pointer;
+    text-transform: uppercase;
+    border: 2px solid white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 90%;
+    height: 90%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+}
+#contact {
+    height: 550px;
+    background-image: url(/home/morings/Desktop/delani/img/IP3/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    color: white;
+    margin-top: 2cm;
+}
+#contact h3 {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding: 1cm;
+    margin-bottom: -0.3cm;
+}
+input {
+    background-color: unset;
+    border-color: white;
+    border: 1px solid white;
+}
+#name {
+    width: 60%;
+    margin-left: 4cm;
+}
+#email {
+    width: 60%;
+    margin-right: 1cm;
+}
+#textareaFormControl {
+    background-color: unset;
+    width: 20cm;
+    margin-left: 6cm;
+    margin-right: 3cm;
+    margin-top: 1cm;
+}
+#textareaFormControl ::placeholder {
+    color: white;
+}
+::placeholder {
+    color: white;
+}
+.submit {
+    text-align: center;
+    color: white;
+}
+#submit {
+    background-color: unset;
+    color: white;
+}
+.bottom {
+    text-align: center;
+    margin-left: 7cm;
+    margin-right: 7cm;
+    height: 4cm;
+}
+.containerIcons {
+    margin-top: 1.5cm;
+}
+.studio {
+    margin-top: 0.7cm;
+}
+.studio p {
+    margin-bottom: -0.1cm;
+    font-size: 13px;
+}
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
