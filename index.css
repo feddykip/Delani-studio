@@ -1,5 +1,5 @@
 .page1{
-    background-image: url(file:///home/morings/Desktop/delani/img/IP3/assets/backgrounds/h_img.jpg);
+    background-image: url(assets/backgrounds/h_img.jpg);
     background-size: 100%;
 }
 .top{
@@ -28,7 +28,7 @@
 .page3{
    text-align: center;
    font-size: 19px;
-   background-image: url(/home/morings/Desktop/delani/img/IP3/assets/backgrounds/s_image.jpg);
+   background-image: url(assets/backgrounds/s_image.jpg);
    background-size: 100% 100%;
    color: white;
    height: 400px;
@@ -65,7 +65,7 @@
 }
 #contact {
     height: 550px;
-    background-image: url(/home/morings/Desktop/delani/img/IP3/assets/backgrounds/c_image.jpg);
+    background-image: url(assets/backgrounds/c_image.jpg);
     background-size: cover;
     color: white;
     margin-top: 2cm;
