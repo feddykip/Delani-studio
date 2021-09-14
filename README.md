@@ -1,6 +1,6 @@
 # Delani Studio
 ## Author
-Ferdinand Kiplang
+Ferdinand Kiplangat
 ## Description
 This is a Landing Page of a studio. It describes the services offered, portfolio section, and an about us section. It also has a form section to leave a message.
 ## Setup
