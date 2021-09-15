@@ -7,7 +7,7 @@ This is a Landing Page of a studio. It describes the services offered, portfolio
 To access this website you will need a web browser to load the content. You will load the url which will take you to the page where you can view the studio webpage and the services offered.
 ## Technologies used
 * HTML
-* CSS
+* CS
 * JAVASCRIPT
 * BOOTSTRAP
 ### Live site
