@@ -15,7 +15,7 @@ view [live](https://feddykip.github.io/Delani-studio/index.html)
 ### license
 MIT License
 
-Copyright (c) 2021 Ferdinand Kipla
+Copyright (c) 2021 Ferdinand Kiplangat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
